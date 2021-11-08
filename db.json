@@ -6,6 +6,71 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "teste@mail.com",
+      "password": "$2a$10$X2yi.e5sNoEyZLjhqF5XDufK9FrP7k3fKvfI7ucryItO/zGv7Pg32",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "title": "Hamburguer",
+      "type": "Sanduíches",
+      "price": 14,
+      "image": "https://ibb.co/BwSBCSY",
+      "userId": 2,
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "title": "Hamburguer",
+      "type": "Sanduíches",
+      "price": 14,
+      "image": "https://ibb.co/BwSBCSY"
+    },
+    {
+      "title": "X-Burgue",
+      "type": "Sanduíches",
+      "price": 16,
+      "image": "https://ibb.co/1ZWZK3s"
+    },
+    {
+      "title": "Big-Kenzie",
+      "type": "Sanduíches",
+      "price": 18,
+      "image": "https://ibb.co/GCkqSb5"
+    },
+    {
+      "title": "Combo Kenzie",
+      "type": "Combos",
+      "price": 26,
+      "image": "https://ibb.co/0Xrgfj1"
+    },
+    {
+      "title": "Fanta Guaraná",
+      "type": "Bebidas",
+      "price": 5,
+      "image": "https://ibb.co/9Wfmp27"
+    },
+    {
+      "title": "Coca Cola",
+      "type": "Bebidas",
+      "price": 7,
+      "image": "https://ibb.co/5v1stCZ"
+    },
+    {
+      "title": "McShake Ovomaltine",
+      "type": "Sobremesas",
+      "price": 10,
+      "image": "https://ibb.co/Rgssdq8"
+    },
+    {
+      "title": "Sundae Ovomaltine",
+      "type": "Sobremesas",
+      "price": 10,
+      "image": "https://ibb.co/kx1QhYJ"
     }
   ]
 }
