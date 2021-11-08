@@ -25,48 +25,56 @@
   ],
   "products": [
     {
+      "id": 1,
       "title": "Hamburguer",
       "type": "Sanduíches",
       "price": 14,
       "image": "https://ibb.co/BwSBCSY"
     },
     {
+      "id": 2,
       "title": "X-Burgue",
       "type": "Sanduíches",
       "price": 16,
       "image": "https://ibb.co/1ZWZK3s"
     },
     {
+      "id": 3,
       "title": "Big-Kenzie",
       "type": "Sanduíches",
       "price": 18,
       "image": "https://ibb.co/GCkqSb5"
     },
     {
+      "id": 4,
       "title": "Combo Kenzie",
       "type": "Combos",
       "price": 26,
       "image": "https://ibb.co/0Xrgfj1"
     },
     {
+      "id": 5,
       "title": "Fanta Guaraná",
       "type": "Bebidas",
       "price": 5,
       "image": "https://ibb.co/9Wfmp27"
     },
     {
+      "id": 6,
       "title": "Coca Cola",
       "type": "Bebidas",
       "price": 7,
       "image": "https://ibb.co/5v1stCZ"
     },
     {
+      "id": 7,
       "title": "McShake Ovomaltine",
       "type": "Sobremesas",
       "price": 10,
       "image": "https://ibb.co/Rgssdq8"
     },
     {
+      "id": 8,
       "title": "Sundae Ovomaltine",
       "type": "Sobremesas",
       "price": 10,
